@@ -1,0 +1,16 @@
+[1031/074415.087660:INFO:main.cc(182)] Chrome OS Update Engine starting
+[1031/074415.099604:ERROR:boot_control_android.cc(60)] Error getting bootctrl HIDL module.
+[1031/074415.099864:WARNING:daemon_state_android.cc(32)] Unable to create BootControl instance, using stub instead. All update attempts will fail.
+[1031/074415.119320:INFO:update_attempter_android.cc(409)] GetProgress = [0%]
+[1031/074415.120071:INFO:update_attempter_android.cc(417)] GetStatus = [UPDATE_STATUS_IDLE]
+[1031/074415.122360:INFO:update_attempter_android.cc(379)] StartUpdateZip Starting...
+[1031/074415.123184:INFO:update_attempter_android.cc(392)] Update pthread create successfully, tid = 0x79e23014f0
+[1031/074415.124872:INFO:update_attempter_android.cc(314)] Update Package Thread Starting, pid = 15597, tid = 0x79e23014f0
+[1031/074415.125207:INFO:update_attempter_android.cc(409)] GetProgress = [0%]
+[1031/074415.153647:INFO:update_attempter_android.cc(409)] GetProgress = [5%]
+[1031/074415.236541:INFO:update_attempter_android.cc(409)] GetProgress = [14%]
+[1031/074415.243388:INFO:update_attempter_android.cc(409)] GetProgress = [81%]
+[1031/074415.277897:INFO:update_attempter_android.cc(409)] GetProgress = [90%]
+[1031/074415.294694:INFO:update_attempter_android.cc(409)] GetProgress = [100%]
+[1031/074415.374438:INFO:update_attempter_android.cc(320)] update finish with result: 0
+[1031/074415.375077:INFO:update_attempter_android.cc(409)] GetProgress = [100%]
